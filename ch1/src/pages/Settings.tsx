@@ -4,7 +4,7 @@ import {Text, View} from 'react-native';
 function Settings() {
   return (
     <View>
-      <Text>세팅 화면</Text>
+      <Text>세팅 화면!</Text>
     </View>
   );
 }
